@@ -1,4 +1,4 @@
-load_on_startup <- function(){
+load_on_startup <- function() {
     print("not loading")
 }
 
